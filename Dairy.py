@@ -18,6 +18,7 @@ def write_entry():
         diary.write(f"[{date}]\n")
         diary.write(f"{entry}\n")
         diary.write("-" * 20 + "\n")
+        diary.write
 
 def read_entry():
     with open("diary.txt", "r") as f:
