@@ -1,0 +1,11 @@
+OrderID,Product,Region,Quantity,Price,Month
+1001,Laptop,North,2,50000,January
+1002,Phone,South,5,20000,January
+1003,Tablet,East,3,15000,February
+1004,Laptop,West,1,50000,February
+1005,Phone,North,4,20000,March
+1006,Tablet,South,2,15000,March
+1007,Laptop,East,3,50000,April
+1008,Phone,West,6,20000,April
+1009,Tablet,North,1,15000,May
+1010,Laptop,South,2,50000,May
